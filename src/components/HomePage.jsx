@@ -22,10 +22,10 @@ export function HomePage() {
 
   return (
     <iframe
-      title="MWW"
-      src="https://mwwtesting.fingent.net/"
-      name="mww-shop"
-      context="Main"
+      title="MWW Shopify App"
+      src="https://portal.mwwondemand.com/"
+      name="MWW Shopify App"
+      context="MWW Shopify App"
       width="100%"
       height="550"
       frameBorder="0"
